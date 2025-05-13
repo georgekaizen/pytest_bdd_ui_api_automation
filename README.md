@@ -6,18 +6,13 @@ This project contains automated tests for:
 
 ## Setup
 
-1. Clone this repository
+1. Clone this repository >>> https://github.com/georgekaizen/pytest_bdd_ui_api_automation
 2. Install dependencies:
 ```
 pip install -r requirements.txt
 ```
 
 ## Running Tests
-
-### Run all tests
-```
-pytest
-```
 
 ### Run only UI tests
 ```
