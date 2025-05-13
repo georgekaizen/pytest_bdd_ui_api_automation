@@ -1,0 +1,6 @@
+pytest==7.4.3
+pytest-bdd==7.0.1
+selenium==4.15.2
+requests==2.31.0
+webdriver-manager==4.0.1
+selenium-wire==5.1.0
